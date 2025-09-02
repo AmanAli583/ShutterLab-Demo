@@ -1,3 +1,3 @@
 # ShutterLab-Demo
 This is my first Git Repository.
-Authore-AMAN ALI
+Authore- AMAN ALI
